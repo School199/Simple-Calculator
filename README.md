@@ -2,5 +2,7 @@
 
 You need to have node instaled
 
-npm install body-parser
-npm install express
+in working folder open terminal and tipe this comand:
+
+npm install body-parser express
+
