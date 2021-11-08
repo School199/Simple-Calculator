@@ -1,4 +1,4 @@
-# Simple-Calculator
+# Simple-Calculator BMI
 
 You need to have node instaled
 
